@@ -53,11 +53,9 @@
 
 # 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=aman-2904&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aman-2904&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
