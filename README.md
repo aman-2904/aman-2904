@@ -137,7 +137,13 @@ Next.js powered digital marketing website focused on performance and lead genera
 
 # 🐍 Contribution Snake
 
-![Snake animation](https://github.com/aman-2904/aman-2904/blob/output/github-contribution-grid-snake-dark.svg)
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/aman-2904/aman-2904/output/github-snake-dark.svg" alt="Snake animation" />
+
+</div>
 
 ---
 
