@@ -39,22 +39,6 @@
 
 ---
 
-# 📊 GitHub Streak
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=aman-2904&theme=github_dark&hide_border=false&border_color=58A6FF&include_all_commits=true&count_private=true" height="180" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-2904&theme=github_dark&hide_border=false&border_color=58A6FF&layout=compact" height="180" />
-
-  <br/><br/>
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aman-2904&theme=github_dark&hide_border=false&border_color=58A6FF" width="95%" />
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
