@@ -57,16 +57,6 @@
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aman-2904&theme=tokyonight&row=1&column=7"/>
-
-</div>
-
----
-
 # 🚀 Featured Projects
 
 ## 🤖 NOVA Jarvis AI
